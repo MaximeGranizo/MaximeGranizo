@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports/robotics
 - 🌱 I’m currently learning engeneering in ENSEEIHT (Toulouse, France)
 - 📫 How to reach me maximegranizo@gmail.com
-- 💻 You can find my website at : maximegranizo.github.io/portfolio/
+- 💻 You can find my website at : https://maximegranizo.github.io/portfolio/
 
 <!---
 MaximeGranizo/MaximeGranizo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
