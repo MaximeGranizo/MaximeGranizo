@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaximeGranizo
 - 👀 I’m interested in sports/robotics
-- 🌱 I’m currently learning engeneering in ENSEEIHT (Toulouse, France)
+- 🌱 I’m currently learning engeneering in Supaero / ENSEEIHT (Toulouse, France)
 - 📫 How to reach me maximegranizo@gmail.com
 - 💻 You can find my website at : https://maximegranizo.github.io/portfolio/
 
